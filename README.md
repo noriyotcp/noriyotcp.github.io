@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noriyo Akita</h1>
 <h3 align="center">a web engineer based in Hachinohe City, Aomori Prefecture, Japan. I work remotely full-time.</h3>
 
-<p align="left"> <a href="https://twitter.com/noriyo_tcp" target="blank"><img src="https://img.shields.io/twitter/follow/noriyo_tcp?logo=twitter&style=for-the-badge" alt="noriyo_tcp" /></a> </p>
+<p align="left"> <a href="https://x.com/noriyo_tcp" target="blank"><img src="https://img.shields.io/twitter/follow/noriyo_tcp?logo=twitter&style=for-the-badge" alt="noriyo_tcp" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/noriyotcp](https://github.com/noriyotcp)
 
@@ -11,7 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/noriyo_tcp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="noriyo_tcp" height="30" width="40" /></a>
+<a href="https://x.com/noriyo_tcp" target="blank"><img src="https://img.shields.io/badge/%40noriyotcp-black?style=for-the-badge&labelColor=black&logo=x" alt="Badge">
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,4 +21,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=noriyotcp&show_icons=true&locale=en&layout=compact" alt="noriyotcp" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noriyotcp&" alt="noriyotcp" /></p>
-
