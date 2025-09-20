@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noriyo Akita</h1>
-<h3 align="center">A web engineer based in Hachinohe City, Aomori Prefecture, Japan. I work remotely full-time.</h3>
+<h3 align="center">A web engineer based in Hachinohe City, Aomori Prefecture, Japan, working remotely full-time.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/noriyotcp](https://github.com/noriyotcp)
 
