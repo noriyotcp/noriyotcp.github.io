@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/noriyo_tcp" target="blank"><img src="https://img.shields.io/badge/%40noriyotcp-black?style=for-the-badge&labelColor=black&logo=x" alt="Badge">
+<a href="https://x.com/noriyo_tcp" target="blank"><img src="https://img.shields.io/badge/%40noriyo_tcp-black?style=for-the-badge&labelColor=black&logo=x" alt="Badge">
 </a>
 </p>
 
